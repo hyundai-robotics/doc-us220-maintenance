@@ -1,0 +1,5 @@
+﻿# 1.14. 엔드 이펙터(End Effector) 안전
+
+{% hint style="warning" %}
+엔드 이펙터(End Effector)를 설치 및 운영하는 경우 반드시 ISO 10218-1:2018을 준수하여 적용 및 보수, 운영을 하여야 한다. 
+{% endhint %}
