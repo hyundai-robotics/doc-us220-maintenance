@@ -1,5 +1,6 @@
 ﻿# Table of contents
 
+* [US220 보수설명서](README.md)
 * [1. 안전](1-safety/README.md)
   * [1.1. 적용 표준](1-safety/1-applied-standard.md)
   * [1.2. 안전 성능](1-safety/2-safety-performance.md)
@@ -76,7 +77,7 @@
     * [3.5.3. 허용 토크, 관성 모멘트 계산 예](3-precautions-for-handling/5-allowable-load-of-the-wrist-axis/3-example-of-the-calculation-of-the-allowable-torque-and-moment-of-inertia.md)
 
 * [4. 점검](4-inspection/README.md)
-  * [4.1. 점검 계획](4-inspection/1-config.md)
+  * [4.1. 점검 계획](4-inspection/1-inspection-plan.md)
   * [4.2. 점검항목과 주기](4-inspection/2-inspection-items-and-cycles.md)
   * [4.3. 주요 외부 볼트 점검](4-inspection/3-inspection-of-main-external-bolts.md)
   
