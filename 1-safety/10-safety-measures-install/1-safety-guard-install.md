@@ -1,8 +1,23 @@
 ﻿# 1.10.1. 안전 가드 설치
 
-{% hint style="warning" %}
-로봇 동작시 로봇과 작업자가 충돌할 위험이 있기 때문에 작업자가 로봇과 가까이하지 않도록 안전망을 설치하여 주십시오.
-{% endhint %}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-e3v1{background-color:#f8a102;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-e3v1"><img src="../../_assets/작은주의표시.png"> 경고</td>
+    <td class="tg-cly1">로봇 동작시 로봇과 작업자가 충돌할 위험이 있기 때문에 작업자가 로봇과 가까이하지 않도록 안전망을 설치하여 주십시오.</td>
+  </tr>
+</thead>
+</table>
+
 
 로봇 동작시 로봇과 작업자가 충돌할 위험이 있기 때문에 작업자가 로봇과 가까이 하지 않도록 ISO 13855:2010를 준수하여 안전망을 설치하여 주십시오. 로봇이나 용접치구의 점검, 또는 팁 드레싱(tip dressing), 팁교환(tip changing) 등 어떠한 이유든지 로봇동작 중에 안전망(fence)의 문을 열고 설비에 접근하면 로봇이 정지하도록 구성하여 주십시오.
 

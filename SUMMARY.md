@@ -50,7 +50,7 @@
   * [2.7. ARM FRAME 상부 부착면 상세도](2-specifications/7-detailed-diagram-of-the-arm-frame-top-attachment-surface.md)
   * [2.8. 어플리케이션(APPLICATION)용 배선 및 배관도](2-specifications/8-wiring-and-piping-diagrams-for-applications.md)
   * [2.9. 동작 범위 제한](2-specifications/9-restricting-the-work-envelope/README.md)
-    * [2.9.1. 1축 스토퍼](2-specifications/9-restricting-the-work-envelope.md/1-1_axis-stopper.md)
+    * [2.9.1. 1축 스토퍼](2-specifications/9-restricting-the-work-envelope/1-1_axis-stopper.md)
     * [2.9.2. 2축 리미트 스위치 적용(옵션)](2-specifications/9-restricting-the-work-envelope/2-limit-switch/README.md)
       * [2.9.2.1. 1축 리미트 스위치 적용(옵션)](2-specifications/9-restricting-the-work-envelope/2-limit-switch/1-application-of-the-1-axis-limit-switch.md)
       * [2.9.2.2. 2축 리미트 스위치 적용(옵션)](2-specifications/9-restricting-the-work-envelope/2-limit-switch/2-application-of-the-2-axis-limit-switch.md)
