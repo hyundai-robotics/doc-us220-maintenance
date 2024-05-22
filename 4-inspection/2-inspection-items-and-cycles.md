@@ -1,10 +1,6 @@
 ﻿# 4.2. 점검항목과 주기
 
 표 4-2 일상 점검항목
-
-
-<br>
-표 4-3 정기 점검항목과 주기
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
